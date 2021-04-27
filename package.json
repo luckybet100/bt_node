@@ -13,7 +13,7 @@
     "georedis": "^3.1.1",
     "mongoose": "^5.9.7",
     "morgan-body": "^2.4.8",
-    "redis": "^3.0.2",
+    "redis": "^3.1.1",
     "sync-request": "^6.1.0"
   }
 }
